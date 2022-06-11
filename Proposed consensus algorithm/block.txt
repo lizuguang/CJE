@@ -1,0 +1,154 @@
+Reviewer: 1
+
+Recommendation: Reject
+
+Comments:
+This paper investigates dynamic spectrum management for space-air-ground integrated network. The authors propose a blockchain enabled inter-slice spectrum sharing scheme as well as a graph coloring based intra-slice channel assignment algorithm.
+1. Although this paper takes the space-air-ground integrated network as the theme, the authors do not consider the space-air-ground architecture in detail, but only roughly divides it into application layer, control layer and infrastructure layer. In fact, each segment has its own characteristics that need to be carefully considered. Also, there is a lack of explanation and demonstration of the space-air-ground architecture in the figures. Therefore, the proposed spectrum management schemes cannot be proved to be well applicable to the space-air-ground integrated network.
+2. The structure of the introduction part is not clear. The authors present a lot of related work, however, they do not show the differences between this paper and other works.
+3. In the system model part, there is a lack of clear theoretical formulas, and there is no description of the network slices.
+4. In the proposed inter-slice and intra-slice spectrum management schemes, the time cost has not been verified theoretically and experimentally. In the highly dynamic network environment considered in this paper, time cost should be a very important consideration.
+5. In the experimental part, the settings and experimental results are not explained in detail, and the experimental results are also not sufficient.
+6. The writing of this paper needs further improvement.
+
+Additional Questions:
+Appropriateness: Does the paper fit the journal?: Probably not
+
+Correctness: Does the paper appear to be flawed technically and/or methodologically?: Minor flaws that must be corrected
+
+Implications: How important is the work?: Not of compelling interest
+
+Originality: How novel is the approach?: A new application of well known techniques
+
+Abstract：Does the abstract of the paper make sense?: Need modification
+
+Empirical Grounding: Does this paper contain information about evaluation?: Evaluation is weak
+
+Clarity: Is it clear what was done?: Presentation is very confusing
+
+References: Is the bibliography relevant and exhaustive?: Some citations, but some missing
+
+Please rate your confidence in the domain of this paper: Pretty sure, but there's a chance I missed something. Did not carefully check the details, e.g. The math.
+
+
+Reviewer: 2
+
+Recommendation: Reject
+
+Comments:
+In this paper, a blockchain-empowered dynamic spectrum management is investigated in space-air-ground integrated networks. To address the potential security and privacy problems, a bilateral confirmation protocol and a consensus mechanism are proposed. Then, a graph coloring based channel assignment algorithm is proposed to achieve the inter-slice spectrum access. This paper is well written and easy to follow, however, it also has some flaws as mentioned in the following.
+1.The literature research is insufficient in terms of resource management. As I know, the resource management has been well studied in SAGIN, however, only few literature is investigated in the Introduction.
+2.The advantages of the proposed scheme are missing compared with the existing spectrum management schemes.
+3.What’s the difference between the proposed blockchain-empowered spectrum management and that in [19]?
+4.The performance of the proposed scheme is only compared with that of WIF. The baseline scheme is not enough to illustrate the advantage of the proposal. More baseline schemes are needed in my opinion.
+5.The proposed spectrum sharing scheme can address the security and privacy issues, however, the performance metrics in terms of security and privacy are missing in the simulation results.
+
+Additional Questions:
+Appropriateness: Does the paper fit the journal?: Definitely
+
+Correctness: Does the paper appear to be flawed technically and/or methodologically?: The paper is OK
+
+Implications: How important is the work?: Restricted interest
+
+Originality: How novel is the approach?: A new application of well known techniques
+
+Abstract：Does the abstract of the paper make sense?: Fine
+
+Empirical Grounding: Does this paper contain information about evaluation?: Some evaluation
+
+Clarity: Is it clear what was done?: Presentation is very clear
+
+References: Is the bibliography relevant and exhaustive?: Some citations, but some missing
+
+Please rate your confidence in the domain of this paper: Absolutely positive that my evaluation is correct, and I amvery familiar with the relevant literature.
+
+
+Reviewer: 3
+
+Recommendation: Reject
+
+Comments:
+This paper studies the blockchain empowered dynamic spectrum management for SAGIN. Some conspicuous deficiencies are as follows.
+1) The theoretical analysis is simple. The formed optimization problem (12) seems to be straightforward;
+2) In simulations, more beachmark schemes need to be presented to prove the performance of the proposed scheme;
+3) The graphs have too little information. Theoretical/experimental contribution is little. The authors should deepen the study and present more simulation results.
+4) The generality of the proposed scheme should be examined.
+5) This paper is not well organizated.The whole manuscript should be refined.
+6) The importance thing is more new work shoud be surveyed. This reviewer expects to read a more solid and novel paper.
+
+Additional Questions:
+Appropriateness: Does the paper fit the journal?: Definitely
+
+Correctness: Does the paper appear to be flawed technically and/or methodologically?: The paper is OK
+
+Implications: How important is the work?: Restricted interest
+
+Originality: How novel is the approach?: A new application of well known techniques
+
+Abstract：Does the abstract of the paper make sense?: Fine
+
+Empirical Grounding: Does this paper contain information about evaluation?: Some evaluation
+
+Clarity: Is it clear what was done?: Presentation is very clear
+
+References: Is the bibliography relevant and exhaustive?: Some citations, but some missing
+
+Please rate your confidence in the domain of this paper: Pretty sure, but there's a chance I missed something. Did not carefully check the details, e.g. The math.
+Recommendation: Reject
+
+Comments:
+This paper studies the blockchain empowered dynamic spectrum management for SAGIN. Some conspicuous deficiencies are as follows.
+1) The theoretical analysis is simple. The formed optimization problem (12) seems to be straightforward;
+2) In simulations, more beachmark schemes need to be presented to prove the performance of the proposed scheme;
+3) The graphs have too little information. Theoretical/experimental contribution is little. The authors should deepen the study and present more simulation results.
+4) The generality of the proposed scheme should be examined.
+5) This paper is not well organizated.The whole manuscript should be refined.
+6) The importance thing is more new work shoud be surveyed. This reviewer expects to read a more solid and novel paper.
+
+Additional Questions:
+Appropriateness: Does the paper fit the journal?: Definitely
+
+Correctness: Does the paper appear to be flawed technically and/or methodologically?: The paper is OK
+
+Implications: How important is the work?: Restricted interest
+
+Originality: How novel is the approach?: A new application of well known techniques
+
+Abstract：Does the abstract of the paper make sense?: Fine
+
+Empirical Grounding: Does this paper contain information about evaluation?: Some evaluation
+
+Clarity: Is it clear what was done?: Presentation is very clear
+
+References: Is the bibliography relevant and exhaustive?: Some citations, but some missing
+
+Please rate your confidence in the domain of this paper: Pretty sure, but there's a chance I missed something. Did not carefully check the details, e.g. The math.
+Recommendation: Reject
+
+Comments:
+This paper studies the blockchain empowered dynamic spectrum management for SAGIN. Some conspicuous deficiencies are as follows.
+1) The theoretical analysis is simple. The formed optimization problem (12) seems to be straightforward;
+2) In simulations, more beachmark schemes need to be presented to prove the performance of the proposed scheme;
+3) The graphs have too little information. Theoretical/experimental contribution is little. The authors should deepen the study and present more simulation results.
+4) The generality of the proposed scheme should be examined.
+5) This paper is not well organizated.The whole manuscript should be refined.
+6) The importance thing is more new work shoud be surveyed. This reviewer expects to read a more solid and novel paper.
+
+Additional Questions:
+Appropriateness: Does the paper fit the journal?: Definitely
+
+Correctness: Does the paper appear to be flawed technically and/or methodologically?: The paper is OK
+
+Implications: How important is the work?: Restricted interest
+
+Originality: How novel is the approach?: A new application of well known techniques
+
+Abstract：Does the abstract of the paper make sense?: Fine
+
+Empirical Grounding: Does this paper contain information about evaluation?: Some evaluation
+
+Clarity: Is it clear what was done?: Presentation is very clear
+
+References: Is the bibliography relevant and exhaustive?: Some citations, but some missing
+
+Please rate your confidence in the domain of this paper: Pretty sure, but there's a chance I missed something. Did not carefully check the details, e.g. The math.Recommendation: Reject
